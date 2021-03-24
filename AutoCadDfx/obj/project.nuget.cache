@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4PSp+UF7XycUasVdlB4QABlMdV/HdLUMg6RCrCwOTC0utY34VNtmvOf0KV1UuvELuAwTsQzLACSSLhGhL6htA==",
+  "success": true,
+  "projectFilePath": "/Volumes/mart/ta-codes/AutoCadDfx/AutoCadDfx/AutoCadDfx.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/hakanhidir/.nuget/packages/microsoft.win32.systemevents/4.5.0/microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "/Users/hakanhidir/.nuget/packages/netdxf.netstandard/2.4.0/netdxf.netstandard.2.4.0.nupkg.sha512",
+    "/Users/hakanhidir/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/hakanhidir/.nuget/packages/system.drawing.common/4.5.0/system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
